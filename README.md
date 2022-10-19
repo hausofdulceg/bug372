@@ -35,4 +35,4 @@
 ---
 ### Representación gráfica de exámen:
 
-![Flowchart](https://i.postimg.cc/FsJp36xG/flowchart.jpg)
+![meme](./cheemsreprobacion.jpg)
